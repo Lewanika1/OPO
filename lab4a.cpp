@@ -6,7 +6,7 @@ int main()
 	int num_cookies;
  	 int num_dozen;
         float total_cost;
-        const float STANDARD_PRICE = 0.89;
+        const float STANDARD_PRICE = 0.89; BUBD89I
 	int discount;
 
         cout << "Enter the number of cookies you would like: ";
